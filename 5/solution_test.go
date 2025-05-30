@@ -1,12 +1,12 @@
 // go test -bench=. -benchmem
 // goos: linux
 // goarch: amd64
-// pkg: leetcode-go/4
+// pkg: leetcode-go/5
 // cpu: AMD Ryzen 5 5500
 // BenchmarkLongestPalindromeV1-12           117408             10190 ns/op               0 B/op          0 allocs/op
 // BenchmarkLongestPalindromeV2-12          3142077               379.5 ns/op             0 B/op          0 allocs/op
 // PASS
-// ok      leetcode-go/4   2.393s
+// ok      leetcode-go/5   2.393s
 
 package main
 
