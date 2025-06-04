@@ -2,7 +2,8 @@ package main
 
 import "fmt"
 
-// https://www.youtube.com/watch?v=UuiTKBwPgAo&ab_channel=NeetCode
+// https://leetcode.com/problems/container-with-most-water/
+// https://www.youtube.com/watch?v=UuiTKBwPgAo
 func maxArea(height []int) int {
 	var up, down int
 	var maxS int
